@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://odysseyexchange.com/sitemap.xml
+Sitemap: https://odyexchange.com/sitemap.xml
